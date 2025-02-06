@@ -1,0 +1,21 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#Rozi {
+    background: deeppink;
+}
+
+#Plavi {
+    position: relative;
+    background: cornflowerblue;
+    left: 200px;
+    bottom: 200px;
+}
+
+#Zeleni {
+    background: yellowgreen;
+    position: relative;
+    bottom: 200px;
+}

@@ -1,0 +1,29 @@
+div {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+#Rozi {
+    background: deeppink;
+    top: 0;
+    left: 0;
+}
+
+#Plavi {
+    background: cornflowerblue;
+    top: 0;
+    right: 0;
+}
+
+#Zeleni {
+    background-color: yellowgreen;
+    bottom: 0;
+    left: 0;
+}
+
+#Žuti {
+    background-color: yellow;
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,17 @@
+#Veči {
+    height: 150px;
+    width: 150px;
+    background: #45ADA8;
+    position: absolute;
+    left: 100px;
+}
+
+div { border: 2px solid black; }
+
+#Manji {
+    height: 75px;
+    width: 75px;
+    background-color: #547980;
+    position: absolute;
+    left: 20px;
+}

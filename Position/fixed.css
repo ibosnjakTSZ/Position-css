@@ -1,0 +1,22 @@
+div:first-of-type {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 0;
+    left: 30px;
+    background-color: deeppink;
+    border: 4px solid black;
+}
+
+div:nth-of-type(2) {
+    width: 100%;
+    height: 2000px;
+    background: linear-gradient(#121367 45%, #1211FE);
+}
+
+div:last-of-type {
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 4px solid black;
+}

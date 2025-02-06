@@ -1,0 +1,8 @@
+div:first-of-type {
+    width: 200px;
+    height: 200px;
+    position: sticky;
+    top: 0;
+    background-color: deeppink;
+    border: 4px solid black;
+}
